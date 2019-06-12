@@ -8,6 +8,7 @@ doc = nlp(text)
 for entity in doc.ents:
   print(entity.text, entity.label_)
 
+ 
 # similarity isn't reliable either
 doc1 = nlp(u"What are the requirements for the master's program?")
 doc2 = nlp(u"what is very required for master program?")
