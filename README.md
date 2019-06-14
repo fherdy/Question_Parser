@@ -14,6 +14,7 @@ Feel free to add any alternate solutions
   a: Check out this link http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/departments/computers/graduate/courses_g.php?sch=n&div=G&disc=CISC.&department=22&dept_id=109
 ```
 
+
 ### setup
 Python 3.6.8
 64bit
